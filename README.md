@@ -6,3 +6,4 @@ These are my assignments
 [Assignment week 6](https://github.com/MariusLucian/Assignments/blob/master/assignment4.ipynb)
 [Assignment week 8](https://github.com/MariusLucian/Assignments/blob/master/assignment5.ipynb)
 [Final Python Assignment](https://github.com/MariusLucian/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+[Final R Assignment](https://github.com/MariusLucian/Assignments/blob/master/OECD_R_exam.ipynb)
